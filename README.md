@@ -1,4 +1,12 @@
+# 💫 Hi 👋, I'm Shreyash Belle
+**A passionate Cloud Engineer || DevOps Engineer**
 
+Email Me 👉 ✉️ **shreyashbelle18@gmail.com.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 📫 **How to reach me:** shreyashbelle18@gmail.com
+- 😄 **Pronouns:** shreyash
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyash_belle_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ https://www.linkedin.com/in/shreyash-belle-7a3562246) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shreyash Belle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashbelle18@gmail.com) 
 
