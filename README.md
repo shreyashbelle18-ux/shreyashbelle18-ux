@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **shreyashbelle18-ux/shreyashbelle18-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
